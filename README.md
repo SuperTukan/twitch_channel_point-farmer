@@ -1,4 +1,4 @@
-# Twitch Channel point farmer script
+# Twitch Channel point farming script
 JavaScript for farming Channel points on Twitch. Not super efficient, but you won't even notice anyway.
 
 Pure JavaScript, works in every browser.
